@@ -1,4 +1,4 @@
-# COIT20261 Portfolio — Week 01 to Week 05
+# COIT20261 Portfolio — Week 01 to Week 06
 
 ## Student Details
 
