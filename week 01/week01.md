@@ -14,7 +14,8 @@ Created a new project in GNS3.
 ### 2. Adding a Linux Host Node
 Added a Linux Host node to the topology and labeled it with student information.
 
-![Linux Host node with student info](<img width="1008" height="708" alt="week1-2 1" src="https://github.com/user-attachments/assets/fc5439e2-dc23-402b-a1a9-1838f65256e5" />
+![Linux Host node with student info](<img width="1590" height="672" alt="week1-2" src="https://github.com/user-attachments/assets/ccf3c37f-8da4-4ec6-a76b-f10eb4f7b813" />
+
 )
 
 ### 3. IP Address Assignment
