@@ -6,7 +6,7 @@
 ### 1. Project Setup
 Created a new project in GNS3.
 
-![Creating a new project](<<img width="1008" height="708" alt="week1-2 1" src="https://github.com/user-attachments/assets/cd9c33f1-e1c7-47aa-bdd4-c9d10f9cf281" />
+![Creating a new project](
 <img width="1347" height="676" alt="week 1-1" src="https://github.com/user-attachments/assets/049ff785-a45f-45d8-9375-10291320fcdf" />
 
 )
