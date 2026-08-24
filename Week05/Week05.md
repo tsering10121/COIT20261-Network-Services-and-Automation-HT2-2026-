@@ -3,7 +3,7 @@
 ## 1. Project Overview
 Created the **View-Routes-12327823** project.
 
-![Project introduction](images/week5-intro.png)
+![Project introduction] (images/week5-intro.png)
 
 ## 2. Topology
 Topology consists of 2 Linux Hosts connected via a Linux Router and a switch: **Host — Router — Switch — Host**.
@@ -44,4 +44,4 @@ Ran a traceroute to confirm the path taken across the OSPF-routed network.
 ![Traceroute result](images/traceroute.png)
 
 ## Reflection
-This week's tutorial helped me develop a better understanding of routing and how devices communicate across different networks. I created the View-Routes-12327823 project and worked with a topology containing two Linux hosts, a Linux router and a switch. Starting the nodes and reviewing the routing tables helped me understand how routing information is used to determine where network traffic should be sent.
+This week’s tutorial improved my understanding of **routing** and how devices communicate across different networks. I created the **View-Routes-12327823** project and worked with a topology consisting of two Linux hosts, a Linux router, and a switch. Starting the nodes and examining their routing tables helped me understand how routing information determines the path network traffic should take between different networks.
