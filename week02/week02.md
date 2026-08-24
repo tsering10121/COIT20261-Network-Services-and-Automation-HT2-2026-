@@ -18,7 +18,7 @@ Added four Linux Host nodes and one Ethernet switch, then connected them togethe
 ### Host 1 & Host 2
 Configured IPv4 addresses starting at `10.10.1.11` for Host 1 and Host 2.
 
-![Host 1 & 2 IP configuration]( <img width="906" height="908" alt="week2-2" src="https://github.com/user-attachments/assets/2989c7b1-3056-4401-9338-4859063f760b" />
+![Host 1 & 2 IP configuration]<img width="906" height="908" alt="week2-2" src="https://github.com/user-attachments/assets/2989c7b1-3056-4401-9338-4859063f760b" />
 )
 
 Host 3 and Host 4 were left without the configure option applied at this stage. All nodes were then started.
