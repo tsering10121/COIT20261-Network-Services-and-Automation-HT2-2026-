@@ -4,7 +4,7 @@
 ## 1. Project Setup
 Created a new project named **Setting-IP-12327823**.
 
-![New project created](<img width="1695" height="855" alt="week2-1" src="https://github.com/user-attachments/assets/a3335c34-6749-498b-89a9-82c626fcfa69" />
+![New project created] ( <img width="1695" height="855" alt="week2-1" src="https://github.com/user-attachments/assets/a3335c34-6749-498b-89a9-82c626fcfa69" />
 )
 
 ## 2. Network Topology
