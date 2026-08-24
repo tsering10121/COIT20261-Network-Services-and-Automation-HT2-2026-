@@ -10,7 +10,7 @@ Created a new project named **Setting-IP-12327823**.
 ## 2. Network Topology
 Added four Linux Host nodes and one Ethernet switch, then connected them together to form a LAN.
 
-![LAN topology with 4 hosts and a switch](<img width="906" height="908" alt="week2-2" src="https://github.com/user-attachments/assets/7f0152c9-fc00-4c05-aa92-49537f5ce938" />
+![LAN topology with 4 hosts and a switch]( <img width="906" height="908" alt="week2-2" src="https://github.com/user-attachments/assets/7f0152c9-fc00-4c05-aa92-49537f5ce938" />
 )
 
 ## 3. IP Address Configuration
@@ -18,7 +18,7 @@ Added four Linux Host nodes and one Ethernet switch, then connected them togethe
 ### Host 1 & Host 2
 Configured IPv4 addresses starting at `10.10.1.11` for Host 1 and Host 2.
 
-![Host 1 & 2 IP configuration](<img width="906" height="908" alt="week2-2" src="https://github.com/user-attachments/assets/2989c7b1-3056-4401-9338-4859063f760b" />
+![Host 1 & 2 IP configuration]( <img width="906" height="908" alt="week2-2" src="https://github.com/user-attachments/assets/2989c7b1-3056-4401-9338-4859063f760b" />
 )
 
 Host 3 and Host 4 were left without the configure option applied at this stage. All nodes were then started.
@@ -38,9 +38,9 @@ Used the `ip address add` command on Host 4 to assign an IP address to the host.
 ## 4. Verifying IP Addresses
 Confirmed that all IP addresses were correctly assigned across the four hosts.
 
-![IP verification 1](<img width="806" height="768" alt="week2-5" src="https://github.com/user-attachments/assets/16ca431f-0c19-45be-945d-b7d50fdda955" />
+![IP verification 1]( <img width="806" height="768" alt="week2-5" src="https://github.com/user-attachments/assets/16ca431f-0c19-45be-945d-b7d50fdda955" />
 )
-![IP verification 2](<img width="887" height="820" alt="week2-6" src="https://github.com/user-attachments/assets/ca9e9dc0-4a9e-489e-a866-448e1e1b30a0" />
+![IP verification 2]( <img width="887" height="820" alt="week2-6" src="https://github.com/user-attachments/assets/ca9e9dc0-4a9e-489e-a866-448e1e1b30a0" />
 )
 
 
@@ -48,7 +48,7 @@ Confirmed that all IP addresses were correctly assigned across the four hosts.
 
 **Pinging Host 2** — successful reply confirming connectivity:
 
-![Ping to Host 2 successful](<img width="734" height="630" alt="week2-10ping" src="https://github.com/user-attachments/assets/0ea2b58d-7a57-4a14-afe0-8f12c2cc3455" />
+![Ping to Host 2 successful]( <img width="734" height="630" alt="week2-10ping" src="https://github.com/user-attachments/assets/0ea2b58d-7a57-4a14-afe0-8f12c2cc3455" />
 ) 
 
 
