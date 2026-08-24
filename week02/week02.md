@@ -49,7 +49,7 @@ Confirmed that all IP addresses were correctly assigned across the four hosts.
 **Pinging Host 2** — successful reply confirming connectivity:
 
 ![Ping to Host 2 successful](<img width="734" height="630" alt="week2-10ping" src="https://github.com/user-attachments/assets/0ea2b58d-7a57-4a14-afe0-8f12c2cc3455" />
-)
+) 
 
 
 Week 02 provided me with practical experience in creating and configuring a basic network using GNS3. I created the Setting-IP-12327823 project and built a LAN consisting of four Linux hosts connected through an Ethernet switch. This helped me understand how multiple hosts can be connected within the same network.
