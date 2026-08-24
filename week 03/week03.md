@@ -18,6 +18,6 @@
  The terminal windows demonstrate the Netcat connection and message exchange.<br>
 
 ## Step 3
-![Week 3 Command Output](<img width="1838" height="879" alt="host1 and host2" src="https://github.com/user-attachments/assets/fd003280-64fe-495b-b599-c8ca57a7856f" />
+![Week 3 Command Output] (<img width="1838" height="879" alt="host1 and host2" src="https://github.com/user-attachments/assets/fd003280-64fe-495b-b599-c8ca57a7856f" />
 )
 
